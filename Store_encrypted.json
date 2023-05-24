@@ -2,7 +2,7 @@
   "sourceDescription" : "Motoca Store For Sells Everything For IOS",
   "sourceProcessor" : {
     "appsUnlock" : {
-      "authUrl" : "https://no-piracy.herokuapp.com/74948/auth.php",
+      "authUrl" : "https://github.com/AxOn7065/code/blob/main/auth.php",
       "actions" : [
         {
           "title" : "Buy Code",
